@@ -1,0 +1,3405 @@
+9	conventional
+9	against
+7	indifferent:公平的：impartiality；（质量、档次等）中规中矩的，一般的：average；不感兴趣的，冷漠的：lack of interest
+7	ignored
+7	disregard:漠视，不关注：no attention；缺乏兴趣，缺乏关心：interest concern
+6	ubiquitous:无所不在的，普通的：everywhere, often observed
+6	superfluous:多余的，过剩的：exceeding sufficient
+6	sophisticated:精明的，老于世故的：worldly knowledge or refinement；复杂的：complex
+6	redundant:多余的，冗余的：exceeding necessary
+6	predictable
+6	pragmatic:实用主义的，务实的：practical approach
+6	detachment
+5	vulnerable:易受攻击的，脆弱的：open to attack
+5	unpredictable
+5	superseded
+5	superficial:表面的，肤浅的：lacking depth
+5	reconciled
+5	problematic
+5	plausible:看似有理的：superficially reasonable
+5	mundane:尘世的，世俗化的：relating to world；平凡的：commonplaces
+5	innovative:创新性的：introducing innovations
+5	independent
+5	exaggerated
+5	enthusiasm:热情，兴趣：desire or interest
+5	elementary
+5	eclectic:混合的，多元化的：from various sources
+5	disparaged
+5	disinterested:公正的，无偏见的：free from selfish, unbiased；没有兴趣的：lack interest, concern
+5	declined
+5	complex
+5	coherent
+5	cautious
+5	anticipated
+5	among
+5	adaptable
+4	with
+4	variety
+4	unusual
+4	unrealistic
+4	unexpected
+4	undermined
+4	undermine:削弱，破坏：weaken, injure, impair
+4	tedious:冗长乏味的：tiresome, dullness, boring
+4	technical
+4	synthesis:合成，综合：combination
+4	suppress:抑制（表情）：inhibit the expression；用暴力终止，镇压：put a stop to, force
+4	subjective
+4	sporadic:偶尔的，零星发生的：not often occurring
+4	significant
+4	rigidity
+4	repudiated
+4	reproduce
+4	provisional:临时的：temporary
+4	protected
+4	precursors
+4	obscure:含义模糊的：not clearly, veiled, uncertain meaning；平凡的，不知名的：famous；使模糊：indistinct
+4	neglected
+4	necessary
+4	literal
+4	limited
+4	largely
+4	intuitive:直觉的：by intuition
+4	insignificant
+4	inquisitive:过分好奇的：inordinately curious
+4	innocuous:无害的：no injury；乏味的，不会引起敌意的：not arouse
+4	inimical:带有敌意的：hostility；危及某人利益的，不利的：opposed to interests
+4	influence
+4	increased
+4	incorporate
+4	exacerbate:使加剧，使恶化：severe
+4	evanescent:逐渐消失的，短暂的：vanish
+4	enigmatic
+4	encourage
+4	emulate:效仿并努力超越：excel through imitation
+4	difficult
+4	derivative:非原创的：originality
+4	defend
+4	crucial:非常重要的，决定性的：extremely significant
+4	confused
+4	condemned
+4	conceal:隐藏，隐瞒：prevent disclosure
+4	comprehensive
+4	complicated
+4	complete
+4	common
+4	beneficial
+4	banal:非原创的，陈腐的：trite
+4	authoritative
+4	appreciated
+4	ambiguous:有多种理解方式的，不确定的：more than one, doubt, uncertain
+4	alleviated
+4	adventurous
+4	acknowledge:承认：admit concede
+4	accessible:可以达到的：within easy reach; 可以理解的：understood; 能够获得的：get
+4	accepted
+4	abstract:做总结，概括：abstract, summarize; 使分心：away, attention
+3	versatile:多才多艺的，全能的：different things；易改变的：fluctuating readily
+3	vague:表达不清的：not clearly expressed；轮廓不清晰的：lacking definite shape
+3	universal
+3	unique
+3	uncertainty
+3	trite:陈腐的，陈词滥调的：hackneyed
+3	transparent:透明的：capable of transmitting light；没有歧义的，清晰易懂的：not subject to misinterpretation
+3	transitory:短暂的：lasting only a short time 
+3	transformed
+3	toward
+3	tolerance
+3	threatened
+3	theory
+3	surprising
+3	supported
+3	superior
+3	substitutes
+3	substantiated
+3	steady
+3	solicitous:为他人操心的，体谅他人的：happiness of others；迫切的，渴望的：urgent desire
+3	social
+3	simplistic
+3	similar
+3	serenity
+3	selective
+3	savor
+3	routine
+3	ridicule:嘲笑：make fun
+3	revolutionary
+3	revised
+3	repudiate:否认：declare not to be true；拒绝接受：unwillingness to accept
+3	reluctant:不情愿的，反感的：showing unwillingness
+3	relevant:有关系的，重要的：having connection
+3	redundancy
+3	reciprocity
+3	recent
+3	realistic
+3	reaction
+3	rational:合乎逻辑的：logical；理性的：based on reasoning
+3	quite
+3	provoke:激怒：incite anger；驱使，激起：stir feeling
+3	preserved
+3	predicted
+3	precise
+3	precipitate:匆忙的：careless speed；促使，导致：cause to happen
+3	practice
+3	philosophical
+3	pervasive
+3	perplexing
+3	perennial
+3	partisanship
+3	partisan:跟随者，信徒：follows；（狂热。坚定的）拥护者，支持者：excessively devoted；偏袒的：one side
+3	partiality
+3	painstaking:煞费苦心的：diligent care
+3	overwhelmed
+3	original:创新的：creative, inventive；最初的，最早的：before
+3	opaque:不透光的：impenetrable by light, neither transparent translucent；晦涩的：obscure
+3	obstacle
+3	observed
+3	neutral
+3	minimize:将…减到最少：reduce to smallest；刻意低估：underestimate；表示鄙夷：scornfully low opinion
+3	mediocre:平庸的，质量中等偏下的：moderate
+3	measured:深思熟虑的，审慎的：calculated
+3	maintained
+3	logical
+3	laudable
+3	intriguing
+3	interest
+3	intensified
+3	insular:（观念、想法等）孤立狭隘的：narrow provincial viewpoint
+3	inspire
+3	injudicious
+3	inhibits
+3	influential
+3	individual
+3	indifference
+3	inconsequential:不合逻辑的：not following good reasoning；不重要的：no significance
+3	incompatible
+3	impractical
+3	immutable:不可变的：not capable of changing
+3	idiosyncratic
+3	hostile
+3	homogeneity
+3	hierarchical:分等级的，等级制的：classified
+3	hasten:促进：speed-up, accelerate
+3	function
+3	frivolous:轻浮的：unbecoming levity；不重要的：little importance
+3	facts
+3	facetious:喜欢开玩笑的，轻浮的：joking
+3	exceptional:例外的，特别的，非凡的：uncommon, extraordinary
+3	exaggerate
+3	essential
+3	eschewing
+3	escape
+3	erudite:博学的：learned
+3	erratic:善变的：not constant；异常的，不同寻常的：different from the ordinary
+3	enigma:难以理解或解释的事物，谜：hard to understand
+3	encouraging
+3	encouraged
+3	emulated
+3	elusive
+3	economy
+3	duplicity:欺骗，口是心非：deceptiveness
+3	dubious:充满不定性的，值得怀疑的：uncertainty, questionable；（对事实等）持怀疑态度的：not feeling sure；迟疑不决的，不愿行动的：slow to begin because of doubts
+3	diversity:多样性：variety, multiformity；分歧，不同点：different
+3	diverse
+3	disprove:反驳，证明为假：prove to be false 
+3	dismissed
+3	dismiss
+3	discussed
+3	discontinuity
+3	diminishing
+3	diffident:不自信的：lack self-confidence；内向的：reserved
+3	devoid
+3	demonstrated
+3	demand
+3	deceptive
+3	debased
+3	cynicism
+3	cynical
+3	curiosity
+3	copious:丰富的，大量的：abundant
+3	control
+3	contradicted
+3	contemporary
+3	considered
+3	conscious
+3	conjecture:揣测的结果：conclusion by surmise；猜测，估计（大小、数量等）：decide without actual measurement；（没有依据地）认为：form an opinion
+3	concern
+3	compromised
+3	commonplace
+3	clearly
+3	change
+3	censured
+3	between
+3	beneficent:仁慈的，好慈善的：charity; （对个人或社会）有益的：contributing
+3	behavior
+3	austere:朴素的，朴实无华的：simple；严肃的，令人生畏的：stern and cold
+3	arcane:（语言）晦涩的，隐晦的：veiled, uncertain；深奥的，难以理解的：difficult to understand
+3	anticipation
+3	anomalous:不普通的,不平常的：out, ordinary; 反常的，不正常的：departing
+3	ambivalent:（尤指感情、态度）矛盾的：opposing feelings
+3	ambivalence
+3	ambiguity
+3	alternative
+3	accelerated
+3	absolute:专制的：unconstrained; 无限的unqualified; 完美的，纯净不惨杂的：free from imperfection, mixture; 不容置疑的，确凿的：unquestionable
+2	writers
+2	withheld
+2	wisdom
+2	willfulness
+2	widespread
+2	widely
+2	welcomed
+2	weakened
+2	warranted
+2	visionary:空想的，不切实际的：guided by ideals；幻觉的：in the imagination；有远见的：foresight
+2	viable:可行的：being done
+2	vexation
+2	verified
+2	verifiable
+2	verbose:冗长的，啰嗦的：more than necessary
+2	veiled
+2	varying
+2	varied
+2	valued
+2	utilize
+2	unrestrained
+2	unremarkable
+2	unreliable
+2	unprepossessing
+2	unnoticed
+2	unlikely
+2	univocal
+2	uniquely
+2	unintelligible
+2	unimpeachable:无可置疑的：unquestionable
+2	uniformity
+2	unfettered
+2	unfamiliar
+2	unexceptionable:无懈可击的：beyond reproach
+2	understatement
+2	understanding
+2	understand
+2	undermines
+2	unconventional
+2	uncontrollable
+2	uncommon
+2	unclear
+2	unavoidable
+2	trivialities
+2	trivial:琐碎的，无足轻重的：little importance
+2	trenchant:锐利的：sharp；（言辞）一针见血的：articulate
+2	treacherous:背叛的：betrayal
+2	transmitted
+2	transmit
+2	transcend:超越，超过极限：beyond the limits
+2	tranquility:宁静，淡定：freedom from storm
+2	tranquil
+2	traditional
+2	timorous:胆小的：fearful
+2	tentative:暂时性的，尝试的：not fully developed
+2	tendentious:有偏见的：biased
+2	tarnished
+2	systematic
+2	sympathy
+2	symmetry:对称：balanced proportions
+2	swift
+2	suspicious
+2	suppressed
+2	supplemented
+2	supplement:增补，补充：complete for a deficiency
+2	succumb:屈服：yield to superior strength；死亡：death
+2	success
+2	subvert:颠覆：overturn
+2	subtle:微妙的，难以感知的：difficult perceive；巧妙的，间接或带有欺骗性的：clever deceptive means
+2	subterfuge:诡计：deception to conceal
+2	substitute:取代者，替代品：takes the place of another；取代，替代：take the place of 
+2	subsidized
+2	struggle
+2	structure
+2	straightforward
+2	stimulation
+2	stimulate
+2	steer
+2	startling
+2	stability
+2	spurious:假的，伪造的：lacking authenticity
+2	speed
+2	speculated
+2	spare
+2	somewhat
+2	soliciting
+2	skepticism
+2	single
+2	sincerity
+2	sincere:真诚的，不做作的：without pretense
+2	simultaneous
+2	signal:（在重要性、成就方面）非同寻常的：standing above；给出信号：direct or notify
+2	sharpened
+2	serious
+2	sensitive:敏感的：susceptible
+2	sedentary:固定不动的：not migratory
+2	scrutinized
+2	scrutinize:仔细检查：observe great care
+2	scientists
+2	scientific
+2	schism:不一致：lack of agreement
+2	schematic
+2	scant:不足的，缺乏的：scarcely
+2	satisfied
+2	sanguine:乐观的，确信的：free from doubt；面色红润的：healthy reddish
+2	sanctioned
+2	salvage:（从灾难中）抢救：save from loss
+2	sacrifice
+2	ruined
+2	rudimentary:初始的，未发展的：earliest development；最根本的，基础的：first principles
+2	reversed
+2	revealed
+2	reveal
+2	restricted
+2	restive:急躁的，忧虑的：impatience, uneasiness；难以管束的：resisting control
+2	responsibility
+2	resolved
+2	resolve
+2	resented
+2	research
+2	repudiation
+2	repetitive
+2	remorse:懊悔，悔恨：bitter regret
+2	remarkable
+2	relinquish:放弃（职位，权力等）：give up；移交，交出：give control or possession
+2	reliable
+2	relegated
+2	relationship
+2	rejected
+2	reject
+2	reinforces
+2	reinforce
+2	regression
+2	reformers
+2	reflected
+2	refinement
+2	refined
+2	reduce
+2	recognized
+2	recognize
+2	random:随机的，随意的：lacking pattern
+2	questioned
+2	question
+2	quarantine:隔离：isolation
+2	published
+2	proximity
+2	provoked
+2	provincial:狭隘（的）：limited perspective
+2	promotion
+2	promote
+2	profundity:深奥，深刻：abstruse
+2	procedures
+2	problems
+2	probity:正直：moral standards
+2	pristine:纯净的，质朴的，未被文明腐蚀的：pure, free from dirt or decay
+2	pretentious
+2	presumptuousness
+2	presumptuous:放肆的，冒昧的：overstepping bounds；傲慢的：feeling of superiority
+2	preserve
+2	present
+2	prejudice
+2	preempted
+2	preeminence
+2	predictably
+2	preconceptions
+2	precludes
+2	preclude:预先阻止：make impossible in advance；排斥：exclude
+2	precarious:危险的，不稳定的：lacking security, stability；可疑的，不明确的：uncertain
+2	praise
+2	practicable
+2	powerful
+2	political
+2	polemical
+2	plethora:过量，过剩：excess
+2	plentiful
+2	pleased
+2	phlegmatic:冷静的，无感情的，淡漠的：calm, sluggish temperament
+2	pessimistic:悲观的：take the gloomiest possible view
+2	pertinent:相关的，恰当的：relevance
+2	persistent
+2	persisted
+2	perseverance
+2	permanent:永恒的：continuing or enduring, forever
+2	peripheral:外围的：boundary or periphery；辅助性的：supply
+2	perfunctory:例行公事的，敷衍的：superficially；不感兴趣的：lacking in interest
+2	paucity:少量，缺乏：dearth
+2	passive
+2	participation
+2	participating
+2	partial:偏袒的，偏爱的：biased；部分的，不完整的：lacking
+2	parallel
+2	paradigm:典范，模范：pattern
+2	panacea:万能药，万灵药：remedy for all ills
+2	overlooked
+2	overlook
+2	overcome
+2	origin
+2	organization
+2	opposed
+2	onerous:费时间花心思的：requiring much time, effort
+2	occasional
+2	obstinacy
+2	obsolescent
+2	obsequiousness
+2	objectivity
+2	number
+2	nostalgia:思乡之情：homesick；怀旧，怀念：sentimental yearning for return
+2	neutralize:中和：acid undergo neutralization；破坏，使无效：make inoperative or ineffective
+2	negligence
+2	natural
+2	naivete
+2	multifaceted
+2	momentous:极重要的：utmost importance
+2	modest
+2	modern
+2	misunderstood
+2	misnomer
+2	misconception
+2	mimicking
+2	mimicked
+2	methodical:井然有序的，有条理的：systematic order
+2	meretricious:艳俗的，俗气的：vulgar manner
+2	merely
+2	mendacity
+2	meditative
+2	mediocrity
+2	mediate:调解，调停：bring about an agreement
+2	masked
+2	marginal:边缘的：near a border；不重要的：not of central importance
+2	manifest:显然的，明显易懂：understanding；显现，显露：make evident
+2	malleable:可塑的：capable of being shaped；易控制的：capable of being controlled
+2	malign:恶意的：cause suffering；诽谤：utter injuriously
+2	maintenance
+2	magnanimity
+2	ludicrous:荒唐的，可笑的：derisive laughter
+2	lucidity
+2	location
+2	little
+2	lethargic:没精打采的，行动迟缓的：sluggish
+2	learning
+2	latitude:（行动或言论）自由：freedom
+2	largesse:捐赠物：without expectation of a return；慷慨：liberality
+2	knowledge
+2	issue:（有争议的）话题，议题：matter that is in dispute；发布（期刊）等：produce and release；（使）流出：flow out
+2	irritated
+2	irresolute
+2	irrelevant
+2	irrefutable
+2	involvement
+2	inventiveness
+2	introduction
+2	introduced
+2	intrigued
+2	intrigue:阴谋：a secret plan；激起…的兴趣：arouse curiosity
+2	intricate
+2	intransigent:不妥协的，固执的：refusal to compromise
+2	intimidating
+2	intimidated
+2	intervention
+2	interplay
+2	intentional
+2	intensity
+2	intelligent
+2	intellectual
+2	integrating
+2	integrated
+2	intact
+2	instinctive
+2	inspired
+2	insincere
+2	insightful
+2	insight:深刻的理解：apprehending nature
+2	inhibited
+2	inhibit
+2	inherent:内在的，本质的：essential
+2	ingenious:聪明的，有创造才能的：resourceful, cleverness
+2	influenced
+2	infertile
+2	inevitable:不可避免的，必然的：incapable avoided
+2	inertia
+2	inept:愚笨的，荒谬的：lack of judgment；不恰当的，不合时宜的：not appropriate；不称职的，无能力的：incompetent
+2	ineffective
+2	indulgent:（对己）放纵的，（对他人）纵容的：given to indulgence
+2	indication
+2	indebted
+2	incorporated
+2	inconvenient
+2	inconclusive
+2	inadequate
+2	inactive
+2	imprecision
+2	impose
+2	importance
+2	impolitic
+2	implies
+2	implicit:不言而喻的，心照不宣的：understood though unexpressed；无疑问的，无保留的：without doubt
+2	imperturbable:沉着冷静的，淡定的：extreme calm
+2	imperative:命令：must be obeyed；命令的，强制性的：forcing one’s compliance；迫切的：needing immediate attention；必要的：impossible to do without
+2	impenetrable:不可渗透的，不可穿透的：impossible to get through；难以理解的：incapable of being comprehended
+2	impede:妨碍，阻碍：slow the progress of 
+2	impatient
+2	impaired
+2	imitating
+2	imaginary
+2	illuminate:照明：make shining；阐明：make plain；启迪，启发：spiritual understanding
+2	ignoring
+2	ignore
+2	ignorant
+2	ignorance
+2	identical
+2	idealism
+2	humble:谦逊的：meekness, modesty；顺从的，谦卑的：humility or unseemly submissiveness
+2	historical
+2	haughty
+2	harmonious:和谐一致的：agreeably related
+2	hardly
+2	gravity
+2	genuine
+2	garnished
+2	garish:过于鲜艳的，过于张扬的：strident color
+2	fundamental
+2	frustrated
+2	frantic
+2	found
+2	foster:促进，鼓励，培养：help the growth；养育：bring to maturity
+2	forfeited
+2	focus
+2	fluctuations
+2	flout:嘲弄性不理会，蔑视：treat with disregard
+2	flippancy:轻率，无礼：unbecoming levity
+2	flexible:灵活的，可变的：readily changed；易受影响的：susceptible to influence
+2	flawed
+2	fickle:易变的：likely to change；不忠诚的：not true in one’s allegiance
+2	fertile
+2	fastidiousness
+2	fastidious:挑剔的，极仔细的，追求完美的：meticulous attention to detail
+2	fanatical
+2	facilitate:使变容易，促进：make easy
+2	extravagance
+2	extraneous:无关的：no relevance；非主要因素的：not essential
+2	exploited
+2	explicit:表达清晰的：fully revealed or expressed；成熟的，完全形成的：fully developed
+2	expertise
+2	experienced
+2	experience
+2	excuse
+2	excluded
+2	excessive
+2	exacting:严格的，苛求的：rigorous；费时间心思的：requiring time, effort, attention
+2	eventually
+2	evaluate
+2	esoteric:深奥难懂的：difficult to understand；少数人知道的：not known by the general
+2	errors
+2	error
+2	erroneous:错误的，不正确的：containing error 
+2	eradicate
+2	equivocal
+2	equivalent:等价的，相等的：equal
+2	equilibrium:均势，平衡：opposing forces are equal；（感情上的）平静：evenness of emotions
+2	ephemeral:短暂的：very short time
+2	enthusiastic
+2	entertaining
+2	enhanced
+2	enhance
+2	enduring
+2	endemic:地方性的：to a particular region
+2	encouragement
+2	enamored:迷恋的，热爱的：intense or excessive love
+2	employed
+2	empirical
+2	emotional
+2	embellished
+2	elude:躲闪，躲避：avoid adroitly；使无法理解，使困惑：escape the perception
+2	elucidate:阐明：make lucid
+2	eloquence
+2	eliminate
+2	elegant
+2	elegance
+2	egalitarian:平等主义的：promoting equal rights
+2	effort
+2	efficiency
+2	effective
+2	economical
+2	eccentric:行为出格的，不循规蹈矩的：deviating conventional
+2	eager
+2	dramatic:显著的，惹人注意的：striking
+2	dominated
+2	documentation
+2	document
+2	diverting
+2	divergent
+2	divergence
+2	distinctive:完全不同的：not of the same kind；特征性的，典型的：serving to identify
+2	distill:对…用蒸馏法提高纯度：increase, purify；（使）渗出；（使）滴下：fall drops
+2	dissipate:驱散：drive away, disperse；浪费：wastefully, squander；放纵：indulge, intemperate
+2	disregarded
+2	dispute
+2	dispel
+2	disparate:迥然不同的：distinct, different dissimilar
+2	disparage:贬低；轻蔑地说：lower, disrespectful
+2	disgraced
+2	disdain:轻视，鄙视：scorn
+2	discretion:谨慎：discreet, circumspection；自制，节制：checking
+2	discrete:离散的，不连续的：separate
+2	disappointing
+2	disabuse:打消错误念头，纠正：free from error, fallacy, misconception
+2	diffuse:啰嗦的：verbose；不集中的，扩散的：not concentrated；扩展，散开：extend, scatter
+2	differentiated
+2	different
+2	didactic:喜欢说教的：teach
+2	dictated
+2	devoted:投入的，忠诚的：loyalty, devotion；示爱的，恩爱的：love
+2	deviation
+2	development
+2	detrimental
+2	determined
+2	determine
+2	detection
+2	detect
+2	detached
+2	deprived
+2	demonstration
+2	demands
+2	deliberation
+2	deliberated
+2	deliberate:深思熟虑的：careful
+2	degree
+2	deflect:使偏斜，使转向：turn aside from a straight course
+2	definition
+2	defiance
+2	deference:尊崇，顺从：yield to
+2	decry:强烈反对，否定：strong disapproval
+2	decried
+2	decorum:礼仪，得体：appropriateness, propriety
+2	declining
+2	decimated
+2	debatable
+2	dangerous
+2	damage
+2	cruel
+2	critique
+2	critics
+2	criticized
+2	criticism
+2	credulity
+2	creation
+2	courteous:礼貌的，谦恭有礼的：polished manners
+2	counter
+2	cosmopolitan:有世界性眼光的，包容的：worldwide
+2	correlate:使...相关联：mutual or reciprocal relation
+2	cooperative
+2	convoluted:复杂的，费解的：complicated
+2	convenience:便利，方便：fitness suitability
+2	conundrum:无法解决的问题，迷：insoluble, dilemma
+2	controls
+2	controlled
+2	contradictory
+2	continue
+2	continuation
+2	contest
+2	contentious:引起争论的：argumentative；好争论的，好战的：tendency quarrels
+2	content:使满足：appease；主题：major subject of interest；内容，内涵：idea that is conveyed
+2	constant
+2	conspicuous:显而易见的；吸引人的：obvious
+2	consistent
+2	conservatism
+2	consequence:结果：produced by cause；重要性，价值：importance
+2	conjure:请求，恳求：entreat earnestly；在脑海中浮现，想起：form a mental picture
+2	congeniality
+2	confusion
+2	confronted
+2	conflict
+2	confined
+2	configurations
+2	confidence
+2	conducive:有益的，有促进作用的：promote
+2	condone:宽恕；忽视：forgive
+2	conditions
+2	conclusive
+2	concerned
+2	concentration
+2	compromise:妥协：concessions；使危险：danger
+2	comprehend:理解，了解：grasp；包括，包含：contain or hold within
+2	complimented
+2	completed
+2	complacency:自满，无忧患意识：self-satisfaction, unawareness of trouble
+2	competitive
+2	compelling:极具说服力的：persuade；迫切的，紧迫的：immediate attention
+2	compatible:一致的，能共存的：in harmony
+2	commercial
+2	commended
+2	cognizant:知道的，意识到的：aware
+2	cleverness
+2	clear
+2	classified
+2	clarity:清晰，清楚：clear, lucidity; 清澈透:easily seen through
+2	claims
+2	civility:彬彬有礼：courteous, politeness
+2	circumstantial
+2	circumspect:谨慎的，小心的：careful
+2	circumscribed
+2	circumscribe:限制：limit; 包围，围绕：surround
+2	chivalrous:有骑士风度的，（尤指对女性）彬彬有礼的：gracious courtesy and high-minded consideration
+2	cherished:受喜爱的，珍爱的：granted special treatment
+2	cheerful
+2	check:使突然停止，阻止：arrest, abruptly; 同意，一致：agreement
+2	charitable
+2	characterized
+2	challenged
+2	censure:公开表示反对，谴责：public, formal disapproval
+2	celebrated
+2	categorically
+2	capricious
+2	calculations
+2	calculated:经过计算（成败得失）的，经过深思熟虑的：reckoning or estimating 
+2	brazen:蛮横大胆的，厚颜无耻的：contemptuous boldness; 大胆自信地去面对或从事：bold self-assurance
+2	biased
+2	bereft
+2	berate:（长时间）严厉指责：scold, vehemently, at length
+2	beneficiaries
+2	belies
+2	being
+2	barriers
+2	baffling:令人疑惑的，难以理解的：hard to comprehend
+2	aversion:非常讨厌，极厌恶：dislike; 令人厌恶的事物：someone that is hated
+2	auspicious:好兆头的：toward a happy outcome
+2	attractive
+2	attention
+2	assumed
+2	associated
+2	assimilate
+2	assertive
+2	aspiration
+2	arrogant
+2	arrange
+2	arbitrary:专横的，独断专行的：force one's will on others；独裁的，拥有无限权力的：without interference by others；缺乏计划的，随意的：lacking a definite plan
+2	appropriation
+2	appropriate
+2	applicable:可用的，可行的：put to use；相关的，有光的：having to do with；合适的，恰当的：meeting the requirements
+2	appealing
+2	apparent
+2	apathy
+2	analogous:相似的，可比较的：in common
+2	anachronistic:时代错误：chronologically misplaced
+2	ameliorated
+2	ameliorate:改善，改进：become better, improve
+2	amateur
+2	altruism:利他主义：unselfish
+2	allusive
+2	alienation
+2	alienated
+2	aggressive:好斗的：attack; 强有力的，强烈的：forcefulness
+2	aggression
+2	aggrandized
+2	affection
+2	affability
+2	aesthetics
+2	advocate:支持，提倡：support
+2	advantages
+2	adoration
+2	admired
+2	admire
+2	adjustment
+2	addition
+2	acute:敏锐的：keen discernment; 严重的，急性的：immediate attention; （程度、影响）极强的：extreme
+2	accomplished
+2	accommodate:提供所需（例如服务、借贷、寄宿）：provide; 改变以适应新情况、新场景：make, suitable;使和谐：free of conflicts
+2	acceptance
+2	academic
+2	absurd:不合理的：unreasonable
+2	aberrant:adj.异常的，非常规的：deviating
+2	abating
+16	about
+11	controversial
+1	zoology
+1	worry
+1	worried
+1	wonderfully
+1	within
+1	withdrawal
+1	wished
+1	windfalls
+1	willfully
+1	willful:固执的，倔强的：self-willed；故意的：deliberately
+1	widening
+1	wicked:邪恶的：morally bad
+1	whole
+1	whimsy
+1	whimsical:反复无常的：sudden illogical changes
+1	whetting
+1	welter:混乱，动乱：disorder
+1	welcome
+1	wasted
+1	wanting:未出现的，缺少的：not present；未达到要求的：not being up to standards
+1	vulnerability
+1	voluntarily
+1	volatile:多变的：rapid change
+1	vogue
+1	vocal
+1	vocabulary
+1	vivid
+1	vitriolic:（言辞）刻薄的：scathing 
+1	vitiating
+1	vitiates
+1	vitiated
+1	vitalism
+1	vital
+1	visual
+1	visible
+1	virtuoso:艺术鉴赏家，专家：masterly skill；经验丰富的，技艺精湛的：exceptional knowledge
+1	virtuosity
+1	violent
+1	violated
+1	vindictive:复仇的，有寻仇倾向的：seek revenge
+1	vigilant:警醒的，警惕的：alertly watchful
+1	vigilance
+1	viciousness
+1	vicious:凶恶的，恶毒的：desire to inflict；猛烈的：violence or ferocity
+1	vexing
+1	vestigial:退化的，发育不全的：simple structure
+1	vestiges
+1	versed:熟知的：having information；精通的：exceptional knowledge
+1	vernacular:方言：nonstandard language；非正式的，口头的：suitable for speech
+1	verisimilitude
+1	verification
+1	venturing
+1	venerable
+1	vendetta
+1	venality
+1	varies
+1	variability
+1	vapid:无趣的，乏味的：lacking interest
+1	valuble
+1	valuable
+1	validation
+1	valiant:勇敢的，英勇的：bravery
+1	vacuous:茫然的，愚蠢的：lack of intelligence
+1	vacillation
+1	vacillate:犹豫不决：hesitate；摇动，摇摆：oscillate
+1	vacant
+1	utilizes
+1	utilized
+1	usually
+1	useless
+1	useful
+1	uprooting
+1	uprooted
+1	uphold:支持，赞成：support
+1	upheld
+1	upheaval
+1	upgrading
+1	updating
+1	unworldly
+1	unwonted:不习惯的，不寻常的：not habitual, ordinary, unusual
+1	unvarying
+1	untreated
+1	untrammeled
+1	until
+1	untapped
+1	untainted
+1	unsympathetic
+1	unsustainable
+1	unsure
+1	unsuitable
+1	unstinting
+1	unstable
+1	unsophisticated
+1	unskilled
+1	unsetting
+1	unselfish
+1	unscathed
+1	unruly:难驾驭的，不守规矩的：difficult to discipline
+1	unresponsive
+1	unremitting:连续不断的：without any interruptions
+1	unregulated
+1	unquestionable
+1	unproven
+1	unpromising
+1	unprofitable
+1	unpretentiousness
+1	unpretentious:低调的，谦逊的：modest；坦诚的，自然的：free from deceive
+1	unprecedented
+1	unpopular
+1	unorthodox
+1	unoriginal
+1	unobstructed
+1	unobservable
+1	unobjectionable
+1	unnoticeable
+1	unnecessary
+1	unmixed
+1	unlimited
+1	unleashed
+1	unknown
+1	universality
+1	uninterested
+1	uninformative
+1	unimpressed
+1	uniform
+1	unidentified
+1	unfounded
+1	unfortunate
+1	unformed
+1	unforeseen
+1	unfeigned
+1	unfathomable
+1	unexciting
+1	unethical
+1	unencumbered
+1	uneasy
+1	uneasiness
+1	undisturbed
+1	undiscovered
+1	underutilized
+1	undertake
+1	understated
+1	understandably
+1	understandable
+1	underscores
+1	underscored
+1	underreported
+1	underrated
+1	underrate
+1	underprice
+1	underplayed
+1	underplay
+1	undermining
+1	underground
+1	underestimated
+1	underestimate
+1	undercutting
+1	undercut
+1	undemonstrative
+1	unctuous:油嘴滑舌的，谄媚的：flattering；夸张的，做作的：affected, exaggerated
+1	uncorrelated
+1	unconvinced
+1	unconventionally
+1	uncontrolled
+1	unconfirmed
+1	unconceivable
+1	uncompromising
+1	uncomplicated
+1	uncharacteristically
+1	uncertain
+1	uncanny:离奇的，奇异的：extraordinary or abnormal
+1	unbiased
+1	unaware
+1	unattractive
+1	unassertive
+1	unassailable:无可争辩的，无法否认的，不可亵渎的：not to be violated
+1	unarticulated
+1	unappreciated
+1	unanticipated
+1	unanimous:一致同意的：consent of all
+1	unalterable
+1	unadorned
+1	unacceptable
+1	umdermine
+1	ultimate
+1	tyrant:暴君：oppressively or brutally
+1	typify
+1	two
+1	tussle
+1	turn
+1	turmoil:骚动，混乱：agitation, commotion
+1	turgid:浮夸的，过分装饰的：embellished
+1	truncate:截短，缩短（时间、篇幅等）：shorten
+1	troubled
+1	triumphs
+1	triumph
+1	trims
+1	trepidation:恐惧，战栗：apprehension
+1	treatment
+1	treatise
+1	treasured
+1	translations
+1	translating
+1	transitoriness
+1	transitional
+1	transient: 短暂的，瞬时的：transitory
+1	transgress:违背，犯错：fail to keep, commit an offense
+1	transform
+1	transferable
+1	transcription
+1	transcribe
+1	transcends
+1	transcendental
+1	trangressed
+1	trample
+1	training
+1	traditionalists
+1	tradition
+1	tractable:易驾驭的，温顺的：giving in
+1	tracking
+1	traceable
+1	touting
+1	tolerate
+1	tolerable
+1	tokens
+1	token
+1	thwarting
+1	thwarted
+1	thwart:阻挠：oppose
+1	thrusts
+1	through
+1	thrilled
+1	threatening
+1	thoughtful
+1	thought
+1	thoroughness
+1	thorough
+1	thorough1	think
+1	thicken
+1	there
+1	theories
+1	their
+1	theatricality
+1	that
+1	terrorized
+1	terms
+1	tepid:不太热心的：little or no interest
+1	tenuous:没有实际内容的，空洞的：little substance
+1	tension
+1	tempting
+1	temporary
+1	temporal:世俗的，尘世的：earthly life
+1	tempers
+1	tempered
+1	temperance
+1	temperamental
+1	temerariously
+1	teeming:大量的：great numbers
+1	taxing:繁重的，费力的：requiring much time, effort
+1	taxed
+1	tawdry:俗丽的，花哨而庸俗的：gaudy
+1	tantamount:等价的，与...相等的：equivalent
+1	tantalized
+1	tangling
+1	tangible:可感知的：capable perceived；确凿的，真实的：real or concrete
+1	tangential
+1	tampered
+1	tame:被驯化的：reduced from a state of native wildness；无聊的，乏味的：lacking spirit；控制，抑制：keep from exceeding
+1	talented
+1	tactless:不机智的，笨拙的：inconsiderate, indiscreet
+1	taciturnity
+1	taciturn:沉默寡言的，话少的：disinclined to talk
+1	tacit:暗示的：implied, not actually expressed
+1	systems
+1	synoptic
+1	symptoms
+1	symptomatic
+1	sympathetic
+1	symbolism
+1	swept
+1	sustained
+1	suspicion
+1	suspension
+1	suspended
+1	suspect
+1	susceptible
+1	susceptibility:易受感染的性质或状态：little resistance
+1	surveying
+1	survey
+1	surroundings
+1	surrogates
+1	surmise:（根据不足的）推测，揣测：based on scantly evidence
+1	surges
+1	suppresses
+1	supports
+1	supportive
+1	support
+1	supplication
+1	supplementary
+1	supplanted
+1	supplant:排挤，篡夺...的位置：usurp the place of
+1	supersede:取代，替代：displace
+1	sumptuous:豪华的，奢侈的：extremely luxurious
+1	sullied
+1	suggesting
+1	suggested
+1	suffer
+1	successively
+1	successive
+1	successful
+1	succeeded
+1	subsumes
+1	substantiates
+1	substantiate:证实：support with proof；使实体化：give material 
+1	substantial:物质的：having substance；有重大意义的：considerable in importance
+1	subsidize
+1	subsiding
+1	subsidiary:次要的：secondary importance；起辅助作用的：aid, support 
+1	subsided
+1	subservient:奉承的，屈从的：obsequiously
+1	subscribed
+1	submission
+1	subjectivity
+1	subject:臣民，受支配的人：under authority；取决于（其他因素）的：under the influence
+1	stymied
+1	stymie:阻碍：present an obstacle
+1	stylized
+1	style
+1	students
+1	struggled
+1	strong
+1	striving
+1	striking
+1	strength:力量：ability to exert effort；（抵抗攻击、压力的）强度：ability to withstand force 
+1	strategic
+1	straight
+1	storage
+1	stinting
+1	stimulating
+1	stimulates
+1	stigmatization
+1	stereotypes
+1	stereotyped
+1	stereochemistry
+1	steadiest
+1	statistical
+1	stasis:平衡，停滞：balance
+1	stark
+1	stable
+1	stabilizes
+1	squelch:压制，镇压（运动）：stop by force；击溃，使无言以对：put down or silence
+1	squeezed
+1	squander:使分散：apart；浪费：spend wastefully
+1	spurns
+1	spurned
+1	sprawling
+1	sporadically
+1	spontaneously
+1	spontaneous:自发的，不经思索的：without apparent thought
+1	spiritedness
+1	speculative
+1	speculation
+1	speculating
+1	spectators
+1	speciousness
+1	specific:特有的，独特的：exact sort；明确的：clearly expressed
+1	species
+1	specialized
+1	specialization
+1	speak
+1	sparing:节俭的，节约的：careful restraint；不足的，缺乏的：less plentiful
+1	sound:牢固的，不可动摇的：withstand stress without structural damage；健康的，强壮的：free from injury；（逻辑）上严谨的：valid reasoning
+1	sordid:肮脏的，不干净的：not clean；卑鄙的：baseness
+1	sophistry
+1	sophistication
+1	soliloquy:（尤指自言自语的）独白：without addressing a listener
+1	sobriety
+1	sober:严肃的：serious-looking；节制的：restraint；有理有据的：sound reasoning
+1	snobbery
+1	snare:无法逃脱的困境：catches and holds；捕捉：capture by
+1	sluggish:缓慢的，迟缓的：slow in movement；迟钝的，反应慢的：slow to respond
+1	slighted
+1	slight:不重要的：deficient in weight；轻微的：small in degree；轻蔑，看不起：treat with disdain；忽略，疏忽：fail to give proper attention
+1	slaking
+1	skillfulness
+1	sketchy
+1	skeptics
+1	skeptical
+1	size
+1	singularity
+1	singular
+1	simultaneity
+1	simulating
+1	simulacrum
+1	similarity
+1	silvicultural
+1	signals
+1	shunned
+1	shrug:轻视，忽略：dismiss；脱下（衣物等）：rid
+1	shrewdness
+1	shrewdly
+1	shows
+1	shortsightedness
+1	shortened
+1	shirk:逃避，规避：keep away from
+1	shifts
+1	shifting
+1	shielding
+1	shelter
+1	sharpen
+1	share
+1	shaped
+1	severe:严厉的，要求严格的：exacting standards；难以承受的，艰难的：difficult to endure
+1	several
+1	settled
+1	served
+1	seriousness
+1	serene:安静的：free from uproar；稳重的，镇静的：unaffected, calm
+1	sequentially
+1	sequential
+1	separation
+1	separated
+1	sentence
+1	sensitized
+1	sensitivity
+1	sensibly
+1	sensible
+1	sensational
+1	selflessness
+1	selfishness
+1	self
+1	selectiveness
+1	selectively
+1	segregated
+1	seemingly
+1	seductive
+1	security
+1	secure
+1	secular:世俗的，尘世的：worldly or temporal
+1	secret
+1	scrupulous:正直的：principled；一丝不苟的：great care and effort
+1	scrupled
+1	scourge:祸害：source of harm
+1	scornful
+1	scorned
+1	scorn:轻蔑，鄙视，不屑：reject contemptible
+1	scope
+1	scientifically
+1	scholars
+1	scent
+1	scarcely
+1	scarce
+1	saturated
+1	satisfying
+1	satisfy
+1	satisfaction
+1	sapping
+1	salvaged
+1	salutary:有益健康的：promoting health；有利的，利好的：promoting well-being
+1	salubrious:有益健康的：promoting health
+1	salient:显著的，最突出的：conspicuously
+1	salaries
+1	sagaciously
+1	sacrilegious
+1	sacrifices
+1	sabotaged
+1	sabotage:妨害，破坏：hinder a cause；从事破坏活动，阻止：practice sabotage
+1	ruthless:没有怜悯心的，残忍的：no pity
+1	runic:神秘的：mysterious
+1	rumors
+1	rumination
+1	rueful
+1	rooted
+1	romantic
+1	robust:精力充沛的，强壮的，健康的：full of strength
+1	riveting:吸引人的，极迷人的：absorbing engrossing
+1	river
+1	rivals
+1	rival
+1	ritual
+1	risky
+1	rises
+1	ripeness
+1	rigorous
+1	rigor
+1	rigid
+1	ridiculed
+1	ridged
+1	rhetorical:语言上的，文字上的：words or language；言辞华丽（却往往无内涵）的：fancy but meaningless
+1	rewards
+1	revolts
+1	revoke:撤回，宣告无效：annul
+1	revived
+1	revile
+1	review
+1	revert
+1	reverent
+1	reverence
+1	revered
+1	reverberate:回荡，回响：continue or be repeated sound waves
+1	revealing
+1	returned
+1	retrospective:回顾的：looking back
+1	retrospect
+1	retrieve:寻回，找回：get back again
+1	retreat
+1	retiring
+1	retire
+1	reticent:沉默不语的：inclined to be silent；不愿意的：slow to begin
+1	retarded
+1	retaliated
+1	retain
+1	resuscitated
+1	resurrecting
+1	resurrected
+1	resurgent
+1	resurgence:复兴：restoration
+1	resurged
+1	resumed
+1	result
+1	restriction
+1	restrained
+1	restore
+1	restoration
+1	restlessness
+1	restless:不平静的：lack of quite
+1	restiveness
+1	restaurant
+1	respected
+1	respectability
+1	respect
+1	resources
+1	resourceful:有创造力的，机智的：act imaginatively
+1	resolution
+1	resists
+1	resistant
+1	resistance
+1	resist
+1	resilience:弹力：resume original shape；恢复能力：ability to recover quickly
+1	residual:剩余的，残存的：residue
+1	resided
+1	reserved:内向的，缄默的：restrained
+1	reserve
+1	resentment
+1	resembles
+1	resemblance
+1	researched
+1	rescued
+1	requires
+1	require
+1	reputation
+1	repugnant:令人厌恶的：arousing aversion；不和谐的，不协调的：not harmony
+1	repugnance
+1	repudiates
+1	reproduction
+1	reproaches
+1	repressive
+1	repression
+1	represses
+1	repress:镇压：put down by force；阻止（正常的表达、活动或发展等）：prevent expression
+1	representative
+1	represent
+1	reprensentation
+1	reported
+1	replicated
+1	replicate:复制，复刻：make an exact likeness；重复，反复：do again
+1	replenishing
+1	replenished
+1	replacement
+1	repetitious
+1	repetitions
+1	repertoire:（技术、设备或原料等的）详单：complete list
+1	repelling
+1	repelled
+1	repeated
+1	repeal:撤销，废除（法律等）：rescind or annul；宣布与…决裂：refuse to recognize
+1	reparations
+1	repair
+1	renunciation
+1	renounced
+1	renewed
+1	renewal
+1	remote
+1	remission
+1	reminiscent
+1	remind
+1	remedies
+1	remedied
+1	remedial
+1	relying
+1	reluctance
+1	relinquished
+1	religious
+1	relieved
+1	relieve
+1	reliance
+1	relevance
+1	relentless:残酷的，无情的：no abatement or severity；固执的，不肯妥协的：yielding in one’s purpose
+1	relegation
+1	relegate
+1	released
+1	relative
+1	rekindle
+1	rejoice:欣喜，喜悦：feel joy
+1	rejection
+1	rejecting
+1	reinstating
+1	reinforcement
+1	reinforced
+1	regulations
+1	regrettably
+1	regrettable
+1	regret
+1	region
+1	regenerative
+1	regained
+1	refute:否认：declare not to be true；证明为假，证伪：prove wrong
+1	refusing
+1	refused
+1	refuse
+1	refractory:倔强的，不顺从的：resisting control
+1	reflects
+1	reflective
+1	refine:提纯，精炼：free from impurities；改善，改进：improve or perfect
+1	reevaluated
+1	reenact
+1	reduced
+1	redirecting
+1	redeemed
+1	rectitude:正直：moral integrity
+1	recrudescent
+1	recovery
+1	recourse
+1	records
+1	record
+1	reconstruction
+1	reconstructed
+1	reconnaissance
+1	recondite:深奥的，难解的：difficult to comprehend
+1	reconcile:使和解，协调：harmony
+1	reclaimed
+1	reckless:不考虑后果的，大胆鲁莽的：careless
+1	recitals
+1	reciprocation
+1	reciprocate:往复运动：forward and backward；报答，回报：return
+1	reciprocally
+1	recipients
+1	receptive
+1	receded
+1	recapitulates
+1	recapitulated
+1	rebukes
+1	rebuke
+1	reassuring
+1	reassess
+1	reasons
+1	reasoned
+1	rearranging
+1	readers
+1	reactionary:反对改革的，极保守的：opposition to progress
+1	rationally
+1	rationalize
+1	rationale
+1	ratiocination:推理：thought processes 
+1	ratio
+1	rather
+1	rapport:和睦，友好：friendly relationship
+1	rapidity
+1	randomly
+1	rancorous
+1	rancor:敌意，深仇：ill will
+1	ramification
+1	rambling
+1	rainstorm
+1	rails
+1	railed
+1	ragged:衣衫褴褛的：threadbare clothes；凹凸不平的，不光滑的：not smooth
+1	radicalism
+1	radical
+1	quotes
+1	quixotism
+1	quixotic:不切实际的，空想的：more by ideals than by reality
+1	quirky
+1	quirkiness
+1	questionable
+1	quest
+1	quantifiable
+1	qualified
+1	quackery
+1	puzzling
+1	purposiveness
+1	purposely
+1	purpose
+1	purifies
+1	punishing
+1	punctuated
+1	punctilious:注意细节的，一丝不苟的：attentive details
+1	pulverize:将…研磨成粉；将…彻底摧毁：complete end
+1	pugnaciously
+1	puerile:幼稚的，不成熟的：immature
+1	publisher
+1	publicly
+1	publicize
+1	psychological
+1	pruned
+1	provocative
+1	proving
+1	provide
+1	proven
+1	protesting
+1	protest
+1	protection
+1	prospect:探查，勘探：go into discovery；期待，期望的事物：looking forward to
+1	prosaic:单调的，常见的：normal course of events
+1	propriety:礼节：conformity socially acceptable；适当，得体：suitable or fitting
+1	proprietary:所有权：ownership；私营的：privately owned
+1	proposals
+1	proportion
+1	propitiate:抚慰，劝解：appease
+1	prone
+1	promulgation
+1	promptness
+1	promptings
+1	promoted
+1	promising
+1	promises
+1	prolixity
+1	prolifically
+1	prolific
+1	projected
+1	prohibitive:禁止的，阻止的：prohibit, restrain；（价格高得）抑制购买的：purchase
+1	progressive
+1	program
+1	profusion:丰富，大量：abundance；挥霍，浪费：wasteful
+1	profound
+1	profligate:挥金如土的，挥霍的：wasteful；败家子：spends money freely；堕落的人：below the normal moral standard
+1	profitable
+1	profitability
+1	professional
+1	productive
+1	produced
+1	produce
+1	procurement
+1	proclaim:宣告，使...公之于众：declare publicly
+1	problematical
+1	probability
+1	prized
+1	prize
+1	privy
+1	privacy
+1	primitive
+1	primed
+1	primacy
+1	prickly
+1	prevention
+1	preventable
+1	prevent
+1	prevarication
+1	prevaricated
+1	prevalent:流行的，普遍的：commonly accepted
+1	prevailing
+1	prestigious
+1	preserving
+1	prescription:规定，传统的规矩：rule
+1	prescribed
+1	prescient
+1	presages
+1	presage:征兆：sign or warning；预示，预言：predict
+1	prerogative:特权，权力：right, power, privilege
+1	prerequisite:先决条件，前提：necessary to an end
+1	prepare
+1	preparation
+1	preoccupied
+1	preoccupation:非常关系，全神贯注：extreme concern
+1	premature
+1	prejudices
+1	preferring
+1	preemptive
+1	preempting
+1	preeminent:优秀的，重要的：paramount
+1	predominant
+1	predispositions
+1	predictability
+1	predecessors
+1	preconceive
+1	precision
+1	precipitated
+1	precious
+1	preciosity
+1	precedes
+1	precedents
+1	precedence
+1	precede
+1	pragmatists
+1	practical
+1	potential
+1	posturing
+1	postpone
+1	posterity
+1	possibility
+1	possess
+1	portrayed
+1	portentous:预兆性的，凶兆的：sign of evil；勾起兴趣的，令人遐想的：eliciting amazement
+1	portend
+1	popularity
+1	poorest
+1	ponderous:沉重的：great weight；沉闷无聊的：unpleasantly dull
+1	polluted
+1	politicized
+1	politically
+1	polite
+1	polarizes
+1	polarity
+1	poised
+1	poise
+1	pointed
+1	plumb:测深度：measure the depth；垂直的：vertical；仔细深入地检查；探索，探究：examine deeply
+1	pleases
+1	playful:爱开玩笑的，好打闹的：joking or teasing
+1	platitudinous
+1	platitudes
+1	plastic:可塑的：modified；虚假的，做作的：lacking in natural
+1	plaintive
+1	placidity
+1	placid:宁静的，风平浪静的：free from storms；冷静的，淡定的：free from agitation
+1	placating
+1	placate:（通过让步以）平息抚慰：lessen the anger
+1	pithy:精练的，简洁的：brief
+1	piety
+1	picturesque
+1	physically
+1	philanthropic:博爱的，为他人着想的：welfare of others
+1	petulant:易怒的，爱发脾气的：easily irritated
+1	petulance
+1	pessimism
+1	perturbed
+1	perturb:使扰乱，使烦躁不安：trouble the mind
+1	persuasion
+1	persuaded
+1	personified
+1	persistently
+1	persistence:坚持，持续：lasting existence
+1	persist
+1	persevered
+1	perquisites
+1	perplexed
+1	perpetuating
+1	perpetrated
+1	pernicious:有害的：injurious
+1	permeated
+1	perimeter:边界，界限：outer limit
+1	perennially
+1	perceptual
+1	perceptive:敏锐的：sense slight differences；洞察力强的：deep understanding
+1	perceptions
+1	penetrating
+1	penetrate
+1	penchant:嗜好，迷恋：strong inclination
+1	pellucidity
+1	pellucid:透明的：admitting light；清晰明确的，易懂的：clear
+1	pejorative:轻蔑的，贬低的：disparaging
+1	peevish
+1	pedestrian:行人：traveling on foot；平庸无奇的，令人厌倦的：causing weariness
+1	peculiarity:特征，特点：distinguishing characteristic
+1	peccable
+1	patterns
+1	patina:外表：superficial；（由内而外散发的）氛围，气场：appearance or aura
+1	patient
+1	patience
+1	patent:显而易见的，明显的：readily visible
+1	passionate
+1	passion
+1	passable
+1	particular
+1	participate
+1	parody:（以嘲笑原作作者的）模仿作品：imitated for ridicule；模仿（以嘲弄）：copy to make fun
+1	pardoned
+1	paralleled
+1	paradoxically
+1	paradoxical
+1	paradoxes
+1	paradox:表面矛盾实际可能正确的话，悖论：opposed to commonsense
+1	panned
+1	pandemic:大范围流行的：widespread
+1	panache:炫耀：flamboyance
+1	palter:欺骗，讨价还价：insincerely deceitfully
+1	pairings
+1	owners
+1	overwhelm:淹没：cover；（感情上、精神上）使无所适从，使难以忍受：subject to mental stress
+1	overturned
+1	overt:明显的，公开的：open
+1	oversimplify
+1	overshadows
+1	overshadowed
+1	overshadow:使变黯淡：make dark, dim；（在重要性上）超越，超过：exceed in importance
+1	overruled
+1	overridden
+1	overrated
+1	overpowering
+1	overly
+1	overlooks
+1	overlap:（与…）部分重叠：same area
+1	overhaul
+1	overemphasized
+1	overcomes
+1	outwitting
+1	outstrips
+1	outmoded:过时的，废弃的：no longer usable
+1	outgrowths
+1	outdated
+1	outcomes
+1	outcome
+1	ostentatious:卖弄炫耀的：conspicuous, pretentious
+1	ostensibly
+1	ornamental
+1	originality
+1	organized
+1	organize
+1	organic
+1	ordered
+1	order
+1	ordeal:严峻的考验：severe trial
+1	optional
+1	optimistic
+1	opposition
+1	opportunism
+1	opacity
+1	omniscience
+1	omitting
+1	omitted
+1	offsetting
+1	official
+1	offended
+1	ocean
+1	occupying
+1	occasionally
+1	obvious
+1	obviating
+1	obviates
+1	obviated
+1	obtuse:愚钝的：absorb ideas readily
+1	obtrusive
+1	obtrude
+1	obtained
+1	obsolescence
+1	obsessed
+1	observation
+1	obsequious:谄媚的，奴性的：fawning attentiveness
+1	obscurity
+1	obscuring
+1	obscured
+1	obnoxious
+1	oblivious:不知道的，不知情的：lacking awareness, not informed
+1	obliqueness
+1	oblique:斜的：inclined or twisted
+1	obligatory:强制性的：compulsory；（见得多以至于）无聊的：dull
+1	obligation
+1	objurgation
+1	objective
+1	object
+1	obfuscatory
+1	obfuscate:使困惑，使模糊：confused, opaque
+1	obdurate:固执的：resistant influences；冷酷无情的：lack of sympathy
+1	nutrients
+1	nurturing
+1	nullified
+1	nugatory:无关紧要的：consequence, inconsequential
+1	noxious:有害的，有毒的：harmful, injurious to health；产生强烈厌恶的：causing intense displeasure
+1	novice:新手，初学者：new
+1	notoriously
+1	norms
+1	normative
+1	nonplussed
+1	nonexistent
+1	nonconformity
+1	nomenclature
+1	nocturnal:夜间的：in the night；夜间活动的：active at night
+1	nightmare
+1	newly
+1	neutrally
+1	neutralizes
+1	neutrality
+1	nettles
+1	negligent:疏忽大意的：failing care
+1	neglect
+1	negative
+1	negates
+1	needless
+1	necessity
+1	naturally
+1	native
+1	national
+1	nascent:新生的：recently come into existence
+1	narrow
+1	narratives
+1	narrative
+1	mysterious
+1	myopia
+1	munificent:慷慨的：liberal in giving
+1	multicultral
+1	muddling
+1	mournful:悲伤的：expressing sorrow
+1	mourn
+1	mounting
+1	mountains
+1	mountainous
+1	motiveless
+1	motivated
+1	moribund:即将结束的，垂死的：approaching death；即将过时：obsolete
+1	more
+1	morbid:疾病的，疾病所致的：by disease；（思想性格）变态的：unwholesome thoughts
+1	moratorium:延期，暂缓施行：suspension
+1	morality
+1	moralistic
+1	monotony
+1	monotonous:（声音）单调的：unvarying tone；清一色的，无聊的：tediously unvarying
+1	monitor
+1	monetary
+1	mollifying
+1	mollified
+1	modulated
+1	modish
+1	modify
+1	modified
+1	modesty
+1	modernization
+1	moderation
+1	moderated
+1	moderate:使缓和：lessen intensify；适度的，中庸的：within limits
+1	mocking
+1	mixed
+1	mitigated
+1	missing
+1	misrepresented
+1	misrepresent:误传，篡改：give misleading representation
+1	misleading
+1	misjudgment
+1	misinformed
+1	misconstrued
+1	miscalculation
+1	mirrors
+1	minutely
+1	mindless
+1	milestones
+1	milestone
+1	mildness
+1	migrations
+1	meticulous:极为谨慎的：extreme or excessive care
+1	methods
+1	method
+1	merits
+1	merited:应得的，理所应当的：what is called for
+1	merit
+1	merging
+1	mercurial:（情绪）善变的：changeableness of mood
+1	mentioned
+1	menial:仆人，奴仆：servant；卑贱的，低下的：spirit of humility or unseemly submissiveness
+1	memory
+1	melodrama
+1	melodious
+1	melancholy
+1	meditated
+1	medicine
+1	mechanized
+1	mechanism
+1	mechanical
+1	measure
+1	meaningless
+1	meaningful
+1	meaning
+1	maturity
+1	mature
+1	materials
+1	material
+1	matched
+1	mastery:技艺超群，精通：great skill
+1	masterpieces
+1	martinet:纪律严明之人：strict
+1	married
+1	marred
+1	marketability
+1	marked
+1	marginalization
+1	marginality
+1	many
+1	manufacture
+1	mantle
+1	manipulated
+1	manifestations
+1	mandated
+1	managing
+1	manageable
+1	manage
+1	maladroitness
+1	making
+1	majority
+1	major
+1	maintaining
+1	magnanimous
+1	luxury
+1	luxuriant
+1	luminous:发光的，有光泽的：emitting or reflecting light；杰出的：standing above
+1	lukewarm
+1	loyal
+1	lovely
+1	losing
+1	loquacity
+1	loosely
+1	longstanding
+1	longing
+1	locomotive
+1	local
+1	loath:不情愿的，讨厌的：reluctant
+1	living
+1	lively
+1	literary
+1	lionization
+1	linguists
+1	limiting
+1	limit
+1	lighthearted
+1	lightest
+1	light
+1	license:许可，认可：approval；自由：move freely；放荡：disregard for standards；准许，授权使用：permit or authorize
+1	liberties
+1	liabilities
+1	levity:轻浮：frivolity
+1	lethal:非常有害的，致命的：extremely harmful
+1	lesser
+1	lessened
+1	less
+1	legitimate
+1	legislation
+1	learned
+1	leading
+1	leaders
+1	leaded
+1	lavishly
+1	lavishing
+1	laughter
+1	lauded
+1	lasts
+1	languid:没精打采的，虚弱的：lacking energy
+1	languages
+1	language
+1	landlocked
+1	lagged
+1	laconic:简洁（以至于显得粗鲁或难以理解的）：minimum of words, concise
+1	lackluster:黯淡无光泽的：lacking brightness
+1	lacking
+1	lacked
+1	labyrinthine:迷宫似的，复杂曲折的：extremely complex structure
+1	knows
+1	juxtaposition
+1	justify:证明...的合理性，为...辩解：prove to be just, right
+1	justifies
+1	justified
+1	justifications
+1	justification
+1	justifiably
+1	justifiable
+1	judiciously
+1	judicious:明智的，慎重的：judgment prudent
+1	judgments
+1	judgment
+1	judging
+1	judged
+1	judge
+1	jointly
+1	joined
+1	jettison:丢弃，投弃：cast
+1	jeopardized
+1	jeopardize
+1	issued
+1	isolating
+1	isolates
+1	isolate
+1	irritating
+1	irrigated
+1	irresponsible
+1	irreparable
+1	irremediable
+1	irrelevance
+1	irregular
+1	irredeemably
+1	irrationality
+1	irrational
+1	irony
+1	ironic
+1	iridescent:五颜六色的：lustrous colors
+1	irascibly
+1	invulnerable
+1	involved
+1	invited
+1	inviolability
+1	invigoration
+1	invigorate:使精神，使强壮，鼓舞激励：impart vigor
+1	investor
+1	investigative
+1	investigating
+1	investigated
+1	inventive
+1	inventions
+1	inveigling
+1	invaluable
+1	inured
+1	intrusive
+1	introverted
+1	introspection
+1	intricacy
+1	intricacies
+1	intrepid:无谓的：resolute fearlessness
+1	intransigence
+1	intractable
+1	intoxicating
+1	intolerable
+1	intimating
+1	intimate:有紧密联系的，亲密无间的：close association；不为人知的：not known；密友：person who has a strong liking；迂回地交流，间接地沟通：communicate indirectly
+1	intimacy
+1	interwoven
+1	intertwined
+1	interrupted
+1	interrelated
+1	interpretation
+1	intermittent:间歇的，断断续续的：not continuous；不定期的：lacking regularity
+1	interminable:无尽头的：no end
+1	intermediary
+1	interfere
+1	interested
+1	interdependent
+1	interchangeable
+1	interchange
+1	interaction
+1	intensifying
+1	intensification
+1	intending
+1	intended
+1	intelligible:可理解的：being understood
+1	intelligibility
+1	intellectually
+1	integral:构成整体所必需的：essential；完整的：not lacking any part
+1	intangible:无法感知的，无形的：capable perceived
+1	insularity
+1	insufferable
+1	instruments
+1	institutionalized
+1	institution
+1	instituted
+1	institute:创立，制定：establish；机构：organization
+1	instincts
+1	instigating
+1	instigate:煽动，激起：urge forward, stir up
+1	instead
+1	installed
+1	inspiration
+1	inspecting
+1	insolvent
+1	insolence
+1	insistence
+1	insipid:（食品）清淡无味的：lacking favor；平淡的，无聊的：lacking interest
+1	insider
+1	insensitivity
+1	insensate
+1	insecurity
+1	inscrutable
+1	inscrutability
+1	insatiable
+1	inquisition
+1	inquietude
+1	inopportune
+1	inoffensive
+1	innovativeness
+1	innovation
+1	innovate
+1	innocent
+1	innocence
+1	initiates
+1	initial
+1	iniquitous
+1	inimitable:无法效仿的，独特的：not imitated
+1	inhibition
+1	ingrained:本质的，根深蒂固的：firmly established
+1	ingrain
+1	ingenuous:天真纯朴的：lacking cunning；坦白的：straightforward
+1	ingeniousness
+1	infuriated
+1	information
+1	informality
+1	informal
+1	inform
+1	inflicted
+1	inflating
+1	inferior
+1	infer
+1	infect
+1	infallibility
+1	inexhaustible
+1	inexcusable
+1	inexact
+1	inevitability
+1	ineptitude
+1	ineluctable:无法逃避的，必然的：not to be avoided
+1	indomitable
+1	indolence
+1	individualized
+1	individualism
+1	indistinguishable
+1	indisputable
+1	indispensable:必不可少的，不可或缺的：impossible to do without
+1	indispensability
+1	indirectness
+1	indirectly
+1	indirect
+1	indeterminate
+1	indefinite
+1	indefatigable
+1	indecisiveness
+1	inculpate:归罪于：incriminate
+1	incredulous
+1	increasing
+1	increase
+1	inconstant
+1	inconsistent
+1	incongruous
+1	incompetent
+1	incompetence
+1	incompatibility
+1	inclusive
+1	inclusion
+1	inclined
+1	inclination
+1	incised
+1	incipient:起初的，初现的：beginning to come into being
+1	incentives
+1	incentive:刺激，诱因：incites
+1	inauspicious
+1	inarticulate
+1	inalienable:不可剥夺的，不能让与的：cannot be transferred
+1	inactivity
+1	inaccurate
+1	inaccuracy
+1	inability
+1	impunity:免责，免受处罚：freedom from punishment
+1	impulsively
+1	impulsive
+1	impulse
+1	impudence
+1	imprudent:不明智的：lacking good judgment
+1	improvisation
+1	improvident
+1	improvements
+1	improve
+1	improper
+1	improbable
+1	impressive
+1	impressions
+1	imprecise:不精确的：not precise
+1	impractically
+1	impoverished
+1	impostors
+1	imposed
+1	implicate
+1	implementing
+1	implementation
+1	implement:工具：device；执行，实施：carry out
+1	impiety
+1	impervious:不可渗透的，不可穿透的：not allowing entrance；不能被破坏的：not capable of being damaged；不为所动的：not capable of being affected
+1	impermissible
+1	imperious:爱发号施令的：ordering people；傲慢的，专横呃：arrogantly domineering；迫切的：compelling
+1	imperiled
+1	imperatives
+1	impending:即将发生的：soon to take place
+1	impeding
+1	impediment
+1	impatience
+1	impassioned
+1	impartiality
+1	impartial
+1	impairment
+1	impair
+1	impact
+1	immunity
+1	imminent
+1	immersed
+1	immediacy
+1	imitative
+1	imitation:仿制品：like something else
+1	imitated
+1	imagined
+1	imaginativeness
+1	imaginative
+1	imagination
+1	illustrative
+1	illusory:幻觉的，虚幻的：illusion
+1	illusion
+1	illuminating
+1	illiberal
+1	illegitimate
+1	ignoble
+1	idolatry
+1	identifying
+1	identify
+1	identifies
+1	identified
+1	idealists
+1	idealistic
+1	ideal
+1	iconoclasm
+1	hysteric
+1	hypothetical:假设，前提条件：starting point；假定的：assumption speculation
+1	hypocritical:虚伪的：not being what one appears to be
+1	hyperbolized
+1	hyperbole:夸张：exaggeration used for emphasis
+1	hunches
+1	humorous
+1	humility:谦卑，谦逊：absence of any feeling s better
+1	humiliated
+1	humdrum:千篇一律，单调：lack of variety；无聊的，乏味的：lacking excitement
+1	humanitarianism
+1	human
+1	hubris:狂妄自大：exaggerated pride, self-confidence
+1	host
+1	hospitable
+1	hopeful
+1	honored
+1	honed
+1	hodgepodge:大杂烩：mixture dissimilar
+1	hoard:贮藏，秘藏：keep hidden
+1	histrionics
+1	hindrance
+1	hindered
+1	him
+1	highlights
+1	highlighted
+1	hieroglyph
+1	hierarchy
+1	hidebound:死板的，极度保守的：tending to favor
+1	hidden
+1	hiatus
+1	heterogeneous
+1	heterodox:非正统的，异端的：unorthodox opinions
+1	hesitantly
+1	hesitant
+1	hermetic:深奥的：abstruseness
+1	heretical:异教的，异端邪说的：departure standards
+1	heredity
+1	her
+1	hemotherapy
+1	hedonistic
+1	heavy
+1	heavily
+1	heated
+1	heartless
+1	heartened
+1	health
+1	headstrong
+1	headlong:鲁莽的：without deliberation
+1	hastily
+1	hastened
+1	has
+1	harsh:粗糙的，不具有美感的：coarse rough disagreeable sense；严厉的：exacting
+1	harmoniously
+1	harmless
+1	harming
+1	harmful
+1	harbinger:预言者：presages
+1	happenstance
+1	haphazardly
+1	haphazard:无秩序的，无目标的：lack of plan, order or direction
+1	hampered
+1	hails
+1	hackneyed:陈腐的，缺乏创新的：lacking freshness originality
+1	habituated
+1	habit
+1	gullible:易受骗的，易被利用的：cheated
+1	guilty
+1	guile:狡猾，狡诈：misleading
+1	guffaw
+1	grudging
+1	groundless
+1	grizzled
+1	grieve:（使）感到悲伤：deep sadness
+1	gregariousness
+1	gregarious:爱社交的：enjoy the company；群居的：group with others
+1	greatly
+1	gratification
+1	grateful
+1	grasp
+1	granted
+1	grandiose:自命不凡的，浮夸的：grandeur；宏大的：greatness
+1	grandiloquence
+1	grades
+1	gouging
+1	goosebumps
+1	goodness
+1	gloom
+1	glamorous
+1	given
+1	germinated
+1	germane:有关的，适当的：relevant
+1	genre
+1	genesis
+1	generations
+1	generated
+1	generality
+1	gawkiness
+1	gaseous
+1	galvanize:（好似用电击）刺激：stimulate excite
+1	gainsay:否认：declare false；反对：oppose
+1	futility
+1	futile:无效的，无用的：ineffective；不严肃的：lacking in seriousness
+1	fusion
+1	fuses
+1	functions
+1	functionalism
+1	fulfilled
+1	fulfill
+1	frustrating
+1	frivolousness
+1	frivolity
+1	fringe:边缘：border；与…接壤，位于…的边缘：be adjacent
+1	frightening
+1	friendly
+1	friend
+1	frequently
+1	freedom
+1	fraught:充满的：full；令人忧虑的：emotional distress
+1	fraudulent:欺诈的：fraud
+1	frameworks
+1	frame
+1	frail:虚弱的：weak；（意志）薄弱的：weak；（希望）渺茫的：slight
+1	fragrance
+1	fragmented
+1	fragmentary
+1	fragility
+1	forward
+1	fortunate
+1	forsake:彻底放弃，抛弃：renounce
+1	formulation
+1	formally
+1	forgotten
+1	forgo
+1	forgery
+1	forested
+1	forestalling
+1	forestalled
+1	forestall:预先阻止：prevent beforehand
+1	foreshadowed
+1	foreseen
+1	foresee
+1	foreknowledge
+1	foreignness
+1	foreground:强调，重视：indicate the importance
+1	forebode:预示，预兆：show signs
+1	force
+1	forbore
+1	forbidden
+1	forbearing
+1	for
+1	foolhardy
+1	followers
+1	followed
+1	folk
+1	foibles
+1	flunk
+1	flouting
+1	flourished
+1	florid:辞藻华丽的，花哨的：fancy expressions；装饰华丽的：elaborately decorated
+1	flooding
+1	flight
+1	fleeting:稍纵即逝的，短暂的：for short time 
+1	flawless
+1	flatness
+1	flagged
+1	fitfully
+1	finite
+1	finicky:过分讲究的，挑剔的：extremely meticulous
+1	financial
+1	filled
+1	figments
+1	fierceness
+1	fiction
+1	fervent:充满感情的，热情洋溢的：great intensity of feeling 
+1	fertility
+1	ferocity
+1	feigned
+1	feign:制造假象，装出…的样子：give a false appearance
+1	fecund:多产，肥沃的：fruitful
+1	feature
+1	feasible
+1	fearsome
+1	fearlessness
+1	fawning
+1	favoritism:偏爱，偏袒：special favor
+1	favor
+1	faulted
+1	fatuous:愚笨的，昏庸的：foolish
+1	fast:绝食，斋戒：abstaining from food；快速的：quick；忠诚的：firm in one’s allegiance；稳固的，难以拆卸的：firmly positioned
+1	fascination
+1	farsightedness
+1	far
+1	fanciful:幻想中的：不真实的：in the imagination；不切实际的，荒谬的：without regard for reason
+1	familiarity
+1	falters
+1	faltered
+1	falter:蹒跚：walk unsteadily；犹豫踌躇：unsteady in purpose or action
+1	falling
+1	fallibility
+1	fallacious:谬误的，不合逻辑的：containing fallacy；欺骗性的：tending to deceive
+1	faithful
+1	fairness
+1	failed
+1	facilitates
+1	facilitated
+1	fabricated
+1	fabricate:捏造：make up；搭建，组建，打造：bring into being by combining
+1	exuberant:非常高兴的，热情洋溢的：joyously, unrestrained；大量的，充分的：abundance
+1	extremes
+1	extravagant:挥霍的：spending money freely；过度的，不必要的：beyond normal acceptable limit
+1	extrapolate:（通过逻辑）判断：form an opinion through reasoning 
+1	extol:赞美；吹捧：praise
+1	extinct:灭绝的：no longer existing
+1	extension
+1	extended
+1	exquisite:程度强烈的：extreme；精致精巧的：refined taste
+1	expression
+1	exposition
+1	exposes
+1	exposed
+1	exporting
+1	explosive
+1	explore
+1	exploration
+1	explanatory
+1	explanations
+1	explained
+1	explain
+1	expire:断气，死亡：die；到期：come to an end
+1	experiments
+1	experimentation
+1	experimental
+1	experiment
+1	expendable
+1	expedient
+1	expediency
+1	expected
+1	expanding
+1	expanded
+1	exotic:外来的，不同寻常的：unusual
+1	exorcism
+1	exorcised
+1	exoneration
+1	exigent:紧急的：immediate
+1	exigency
+1	exigencies
+1	exhilaration
+1	exhilarated
+1	exhaustiveness
+1	exhaustive
+1	exhaust:耗尽：consume entirely, complete use of；筋疲力尽：wear out
+1	exercised
+1	exempt:使免除：release liability
+1	exemplified
+1	executed
+1	exculpate:声明无罪；开脱，使无罪：clear fault guilt
+1	exclude
+1	excited
+1	excitable
+1	excesses
+1	exception
+1	excellent
+1	excellence
+1	exceeded
+1	exceed
+1	exasperated
+1	examples
+1	examine
+1	examination
+1	exaggerates
+1	exacerbating
+1	exacerbated
+1	evolved
+1	evolution
+1	evoking
+1	evocative
+1	evidence
+1	everyday
+1	event
+1	evenly
+1	evasiveness
+1	evaded
+1	euphemism:婉言，委婉的说法：inoffensive expression
+1	ethos:道德准则：code of good conduct
+1	ethics:道德规范：governing conduct
+1	estimates
+1	estimated
+1	estimate
+1	established
+1	essentials
+1	espoused
+1	eschewes
+1	eschewed
+1	eschew:刻意避开；戒绝：avoid
+1	escaped
+1	escalation
+1	escalating
+1	erudition
+1	ersatz
+1	erroneously
+1	erode:侵蚀，慢慢减少：consume gradually
+1	equivocation
+1	equivalents
+1	equivalence
+1	equally
+1	epitome
+1	envisioning
+1	envision
+1	environment
+1	enviable
+1	enumerates
+1	entreaty
+1	entreat:恳求：plead persuade, ask urgently
+1	entitlement
+1	entitled
+1	entirely
+1	enticement
+1	enthralled
+1	entertained
+1	entertain
+1	enter
+1	entangling
+1	enraged
+1	enormous
+1	ennui:倦怠；缺乏兴趣：listlessness, lack of interest
+1	enlightened
+1	enlarged
+1	enlarge
+1	enigmas
+1	enhancing
+1	enhances
+1	enhancement
+1	engrossing
+1	engenders
+1	engendering
+1	engendered
+1	engaging
+1	enforced
+1	enflamed
+1	enfeeble
+1	enervate:使衰弱：weaken；使麻木：deprive of emotional vitality
+1	endured
+1	endorsement
+1	endorsed
+1	endangered
+1	encumbering
+1	encountered
+1	encounter
+1	encomiastic
+1	enclosure
+1	enchanted
+1	encapsulation
+1	emulating
+1	empty
+1	empower
+1	empiricism
+1	empirically
+1	emphasizing
+1	emphasized
+1	emphasize
+1	empathetic
+1	emerged
+1	emerge
+1	emending
+1	emended
+1	embraces
+1	embittered
+1	embedded
+1	embarrassment
+1	embarrassed
+1	emanate
+1	elucidation
+1	elucidating
+1	elitism
+1	elite
+1	elimination
+1	eliminating
+1	eliminates
+1	eliminated
+1	elicited
+1	elicit:激起，唤起：bring out
+1	element
+1	elated
+1	elaborates
+1	elaborated
+1	egalitarianism
+1	effusively
+1	effortlessness
+1	efficiently
+1	efficacy
+1	efficacious:有效的：produce a desired effect
+1	effectively
+1	efface:擦掉，抹去；使不明显：make indistinct
+1	education
+1	editing
+1	economics
+1	economic
+1	eased
+1	early
+1	earlier
+1	eagerly
+1	dwindles
+1	duplication
+1	duplicated
+1	duplicate:复制品：exactly alike；复制：make a copy；重复，反复：do over or again
+1	dumbfounded
+1	drought
+1	dramatizing
+1	dramatizes
+1	downplays
+1	downplay:轻描淡写：，不予重视：minimize significance
+1	downgrading
+1	doubt
+1	domination
+1	dominates
+1	domestic
+1	dogmatists
+1	dogmatic
+1	dodge:躲避：avoid
+1	doctrinaire:教条主义的，照本宣科的：strongly held opinions
+1	doctor
+1	divulge:泄露（秘密）：known confidence, secret
+1	divisive
+1	divides
+1	dividends
+1	diverted
+1	diversion
+1	diversifying
+1	diversify
+1	diversified
+1	diverged
+1	disturbingly
+1	disturbing
+1	distrust
+1	distribution
+1	distribute
+1	distressing
+1	distressed
+1	distorts
+1	distortion
+1	distorting
+1	distorted
+1	distinguished
+1	distinguishable
+1	distant
+1	distain:贬损，伤害（某人的）名誉：lose honor, respect, reputation；弄脏：dirty
+1	dissonance:（音调）不和谐，刺身；不一致，分歧：disagreeable
+1	dissolution
+1	dissipation
+1	dissimilar
+1	dissidents
+1	disseminate:散播，传播：spread, promulgate
+1	dissected
+1	dissatisfaction
+1	disrupt
+1	disrespectful
+1	disregarding
+1	disquietude
+1	disquieting
+1	disquieted
+1	displeased
+1	displacing
+1	dispiritedness
+1	dispense
+1	dispelling
+1	dispassionate:客观公正的，不易被情绪或偏见影响的：unaffected
+1	disorganized
+1	dismystification
+1	dismissing
+1	dismissal
+1	dislike
+1	disinterest
+1	disingenuous
+1	disinclined
+1	disguised
+1	disguise:伪装（防止被认出）：prevent recognition；隐藏，掩饰：secret shut off
+1	disenfranchised
+1	disdainful
+1	discussion
+1	discursive:（谈话内容）杂乱的：without order
+1	discrimination
+1	discriminating
+1	discrepancy:（在事实和宣称之间的）差异或矛盾：divergence, disagreement
+1	discreet:（言行）谨慎的：good judgment and restraint；不易察觉的：not readily seen or noticed
+1	discredited
+1	discredit:羞耻，使丧失名誉：damage reputation, disgrace；怀疑，不相信：not true, real
+1	discoveries
+1	discovered
+1	discover
+1	discourteous
+1	discouraging
+1	discountenance
+1	discount
+1	discontinuous
+1	disconnected
+1	disconcerted
+1	discomfiting
+1	discomfited
+1	disclose
+1	disciplined
+1	disciples
+1	discharge:解雇：dismiss；释放：free；不承担责任：freeing obligation, responsibility
+1	discernment
+1	discerning
+1	discernible
+1	discern:识别，辨别差异：perceive, detect
+1	disavowal
+1	disavow:拒绝承认，否认：disclaim
+1	disapprobation
+1	disappear
+1	disagreeable
+1	disadvantage
+1	directed
+1	direct
+1	dire:不吉利的，不详的：calamity；可怕的，恐怖的：fear；迫切的：immediate, urgent；悲惨的：lacking cheer
+1	diplomatic:使用策略的，机智的：tact
+1	dilettantism
+1	diffusing
+1	difficulty
+1	differentiate
+1	differences
+1	difference
+1	differed
+1	didacticism
+1	dictatorial
+1	dichotomy:一分为二，分割：division into two
+1	dichotomous
+1	diagnose
+1	dexterous:动作灵活的：ready, skilled；头脑灵活的：mentally adroit, skillful
+1	deviously
+1	deviated
+1	deterring
+1	deterrent
+1	determines
+1	determination
+1	deteriorated
+1	detained
+1	detailed
+1	desperate:绝望的：no hope
+1	desirous
+1	desire
+1	desirable
+1	desiccated
+1	deserving
+1	deserved
+1	deserve
+1	desert
+1	desegregate
+1	descry
+1	descriptive
+1	describe
+1	descendent
+1	derided
+1	depressed:不开心的，情绪不高的，消沉的：unhappiness；生活境况悲催的：healthful environment
+1	deploying
+1	deploring
+1	depleted
+1	dependent
+1	dependable:可靠的，值得信赖的：depended on
+1	departures
+1	density
+1	denigrated
+1	denigrate:诋毁，污蔑：scornfully
+1	denied
+1	demystify
+1	demur:表示异议，反对：opposition, objection；犹豫：doubt acceptability qualm
+1	demoralization
+1	demonstrate:（通过证据）证明，表明：make clear using examples；使明白易懂：make plain or understandable；表现，表露：make known
+1	democratic
+1	demise
+1	demean
+1	demarcation
+1	demanding:难以取悦的，难满足的：satisfied；费时间花心思的：requiring careful attention
+1	demanded
+1	delusional
+1	deluded
+1	delineated
+1	delineate:勾勒，用线条描绘：by drawn or painted lines；描写，描绘：describe，portray
+1	delimited
+1	delight
+1	delicacy:（外貌、结构等）精致，极度兴奋，发狂：fineness
+1	deleterious:有害的：harmful
+1	delayed
+1	deify:把…当作神来崇拜：offer honor or respect to；过分喜爱：love or admire；尊敬，尊崇：high status or value to
+1	dehumanizing
+1	degenerate
+1	deftness
+1	definitive
+1	definitions
+1	defined
+1	deficits
+1	deficient
+1	defiant
+1	deferential
+1	defer:推迟，延期：postpone；遵从：respect
+1	defended
+1	defects
+1	defamatory
+1	deepening
+1	deductions
+1	dedicating
+1	dedicated
+1	decries
+1	decreases
+1	declines
+1	declination
+1	declare
+1	decisiveness
+1	deciphering
+1	decimation
+1	decided
+1	deceptively
+1	decelerated
+1	deceit
+1	decadent:堕落的，腐败的：lowered moral character；放纵的人：devoted to luxury and sensual pleasures；道德上堕落的人：moral decay
+1	decadence:衰落，颓废：deterioration, decline
+1	debunking
+1	debunked
+1	debunk:揭穿…的真面目：true nature；证明…为假：false
+1	debilitating
+1	debilitated
+1	debate
+1	debacle:溃败：complete failure
+1	daunting
+1	dampen:（特指稍稍地）弄湿：wet；抑制，压抑（感情、精力等），泼冷水：diminish the feeling, activity or vigor 
+1	dabbling
+1	customary
+1	custodians
+1	curtailed
+1	curtail:缩短，削减：less in extent or duration
+1	cursory:匆忙的，不注意细节的：excessive or careless speed
+1	cunning:狡猾的：artful deceptiveness；（手工）灵巧的：skillful；欺诈，欺骗：practice of misleading
+1	cumbersome:笨重的，难处理的：difficult to handle
+1	cultivation
+1	cultivated
+1	culpability
+1	culminated
+1	crowded
+1	crossfire
+1	criticizing
+1	criticize
+1	critical
+1	critic
+1	creed
+1	credulous:轻信的，易受骗的：gullible
+1	credit:信任，信赖：mental conviction of the truth；表扬，赞扬：acknowledgment or admiration
+1	credible:可信，值得信赖的：worthy of being accepted
+1	creators
+1	creativity
+1	creatively
+1	creates
+1	created
+1	create
+1	craftily
+1	crafted
+1	craft
+1	cowardice:懦弱，不坚定：lack courage
+1	coveted
+1	covet
+1	courted
+1	counterproductive:反效果的，阻碍预期目标的：not producing desired goal 
+1	counterparts
+1	counterintuitive
+1	counterfeited
+1	counterbalance
+1	countenance:容忍：put up with；赞成，推崇：favorable opinion；沉着，冷静：evenness
+1	costly
+1	corruption
+1	corrupted
+1	correlation
+1	correlates
+1	correctly
+1	correction
+1	copies
+1	coordinating
+1	cooperatively
+1	cooperation
+1	cooperate
+1	convince
+1	conviction:深信，确信：being convinced；证明有罪：proved guilty
+1	conveyed
+1	convey:运输：transport；传递，交流：communicate
+1	conversion
+1	conversant:熟悉的：familiar
+1	convergent
+1	conventionalized
+1	conventionality
+1	contumely
+1	contriving
+1	contributing
+1	contribute
+1	contravened
+1	contradict:否认，反驳；与...相矛盾：contrary
+1	contingencies
+1	contiguous:接壤的，相邻的：sharing an edge
+1	context
+1	contested
+1	contentment
+1	contend:竞争，争夺：strive or vie in contest；声明，声称：state as a fact
+1	contemptuous
+1	contempt:蔑视，鄙视：unworthy of one's concern or respect
+1	contemporaries
+1	contemporaneousness
+1	contemplated
+1	consummate:专业的，有造诣的：extremely skilled；无纰漏的，完美的：perfect；最高档次的，最大规模的：highest degree
+1	consumers
+1	consult
+1	construe
+1	constructions
+1	construct:建造，建立：form；创造，相出：create imagination
+1	constraints
+1	constrain:限制：restriction；使人屈服于（压力、感情）等：give in to pressure
+1	constitute:指派，任命：appoint；构成：make up
+1	consternation:惊愕，恐慌，恐惧：paralyzing dismay
+1	conspiracy
+1	consolidation
+1	consolidated
+1	consists
+1	consistently
+1	consigning
+1	considering
+1	conserved
+1	conservation
+1	consequences
+1	consent:同意：approval 
+1	consensus:一致同意：general agreement
+1	conscientious:仔细的，一丝不苟的：involving great care；有良心的，正直的：governed by conscience
+1	conscience
+1	conquered
+1	conquer
+1	connoisseur:鉴赏家（尤指艺术领域）：with discrimination, appreciation；专家：high level of knowledge
+1	conniving
+1	congruity
+1	congruent:和谐一致的：in agreement；全等的：coinciding
+1	congratulate
+1	congenial:和善的，友好的：agreement；令人愉悦的：giving pleasure
+1	confrontation
+1	confront:直接对抗，直面：face to face
+1	confounds
+1	conformism
+1	conflicted
+1	conflated
+1	confirmed
+1	confirm
+1	confidentiality
+1	confident:有信心的，自信的：assurance, self-reliance
+1	condoned
+1	conditional:有条件的，受制约的：dependent
+1	condition
+1	condescend
+1	condemning
+1	condemnatory
+1	condemnation
+1	concord:一致，和睦：harmony, agreement
+1	conclusion
+1	conciliatory
+1	concerns
+1	concede:承认：grant；停止抵抗：cease resistance
+1	conceals
+1	concealing
+1	concealed
+1	computer
+1	comprehensiveness
+1	comprehensively
+1	comprehension
+1	comprehensible
+1	comprehended
+1	compound:混合物：something composed；混合的：consisting；混合：together；扩大，增多：greater；和解：agree
+1	composure
+1	complicate:使复杂化：complex or difficult
+1	compliance
+1	completely
+1	complaint
+1	complacent:自满的，自鸣得意的：excessive or unjustified satisfaction；无所谓的，不关心的：lack of interest or concern
+1	competitively
+1	competent
+1	compensatory
+1	compensation
+1	compensated
+1	compendium:摘要：summary, abstract; 目录，各种各样的列表或集合：list, collection
+1	compendious
+1	compatibility
+1	compassionate
+1	comparisons
+1	comparable
+1	companions
+1	communications
+1	communicable
+1	commonplaces
+1	commonly
+1	commodities
+1	committed:忠诚的，忠实的：loyal
+1	commitments
+1	commensurate:同样大小的：equal; 相称的，相当的：proportionate
+1	command
+1	comical
+1	comfortable
+1	combined
+1	combative
+1	combat
+1	colored
+1	coloration
+1	color
+1	collusive
+1	collusion
+1	collude:串通，共谋（做坏事）：together secretly, fraudulent, deceitful, conspire
+1	collected
+1	collaboration
+1	coincidentally
+1	coincidental
+1	cohesion
+1	coherence
+1	cognizance
+1	cogent:令人信服的：convincing; 相关的：pertinent
+1	cogency
+1	coercion
+1	codified
+1	coarsely
+1	coarse:粗糙的，表面不平整的：not smooth；（声音）刺耳的，粗声粗气的：rough in tone；粗俗的：lacking refinement；（质量）低劣的：inferior quality
+1	coalescing
+1	coalesce:合并，融合：whole, fuse
+1	clumsy:笨拙的：lacking, nimbleness, lack, skill; 不文雅的：lacking, grace, inability, graceful; 不精致的：roughly
+1	clumsiness
+1	clinical
+1	climate
+1	cliche
+1	cleverly
+1	clever
+1	clearheaded
+1	cleanliness
+1	claustrophobic
+1	clannish
+1	clandestine:隐藏的，秘密的：secret, illicit, improper
+1	claimed
+1	claim:要求（权利）：ask for, right; 断言：state as a fact; 剥夺生命：deprive, life; 权利：right
+1	cited
+1	circumvent:躲避，不遵从：avoid, comply
+1	circumstance
+1	circumscription
+1	circumference
+1	circulated
+1	circulate
+1	cinematic
+1	chronologies
+1	chorales
+1	chemist
+1	chastisement
+1	charmed
+1	charismatic
+1	chaotic
+1	chaos:混乱：disorder, confusion
+1	channel:水渠：passageway for water；海峡：between two land masses；将...导入，投入：move to a central point 
+1	changes
+1	changed
+1	chance
+1	challenging
+1	challenges
+1	challenge
+1	certitude:确定无疑：certain
+1	cerebral
+1	centralization
+1	central
+1	censored
+1	cellular:多孔的：porous
+1	caution
+1	cause
+1	causality
+1	cater
+1	categorical:没有例外的，无条件限制的，绝对的：without, qualification, absolute
+1	catastrophic
+1	casualties
+1	casual
+1	caste
+1	cardinal:主要的，非常重要的：foremost importance, paramount
+1	captured
+1	captiously
+1	captious:吹毛求疵的，爱挑毛病的：stress faults and raise objections
+1	caprice:一时冲动的决定：impulsive change; 反复无常，善变：change, impulsively
+1	capitulated
+1	candor:坦率，直率，诚挚：honest, sincere
+1	candid
+1	camaraderie:友情：friendly
+1	calumnious
+1	calloused
+1	callous: 无同情心的，冷漠的：unfeeling
+1	called
+1	calculating
+1	calculable
+1	calamity:大灾难：disastrous event
+1	calamitous
+1	buttresses
+1	buttress:扶墙：supporting, wall building; 为···提供支撑的证据或者信息：provide evidence or information for
+1	but
+1	businesslike
+1	buried
+1	buffoonery
+1	brooked
+1	brook:忍受，容许：tolerate; 小溪流：creek
+1	broadened
+1	brilliance
+1	brevity:简短，简洁：shortness; 精炼：few words
+1	breakthrough
+1	brake:刹车：less rapid
+1	bourgeois
+1	boredom
+1	bootlessness
+1	booming
+1	bolstered
+1	boldness
+1	bogus:伪造的，假冒的：being such in appearance only；虚伪的，做作的：lacking,  spontaneous quality
+1	blushing
+1	blunted
+1	blunt:使变钝：less sharp; 减弱（力度等）：weaken in strength or feeling; 直率的：direct, brief
+1	blundering
+1	bluffing
+1	blooming
+1	blithe:愉快高兴的：happy lighthearted; 无忧无虑的，漫不经心的：freedom from worries
+1	blindness
+1	blighted
+1	blemish:缺点，污点：imperfection; 损害，玷污：reduce
+1	blazed
+1	blatant:大声喧哗的：noisy; （让人生厌地）惹人注目的：noticeable
+1	bizarre
+1	biases
+1	bettered
+1	betrayed
+1	benign:好心的，仁慈的：kindness, gentleness; 无害的：not causing
+1	benefit
+1	benefactors
+1	belligerent:好斗的，好战的：assertiveness, hostility, combativeness
+1	bellicose
+1	believes
+1	believe
+1	believable
+1	belief
+1	belied
+1	belie:错误的描述，误述：picture falsely; 证明···为假：false, wrong; 掩饰：shut off from view; 与···相对立，与···相矛盾：counter
+1	beleaguered
+1	beings
+1	beholden:欠他人人情的：owing gratitude
+1	beguile
+1	befriend
+1	because
+1	became
+1	beauty
+1	beautiful
+1	basis
+1	baseness
+1	based
+1	barren:不育的：incapable, producing; 不产生结果的，无效的：no results; 贫瘠的：deficient; 极度匮乏的：lacking
+1	ballooned
+1	ballads
+1	balked
+1	awkwardness
+1	awareness
+1	avoids
+1	avoided
+1	avoidance
+1	avoid
+1	averts
+1	avert
+1	averaged
+1	avarice:贪财，贪婪：insatiable
+1	available
+1	autonomy:政治上的独立：self-governing; 自我主导的自由，（尤其是）精神独立：independence
+1	autonomous
+1	authorization
+1	authenticity
+1	authenticated
+1	authentic:真实的，非仿造的：exactly; 准确的，相符的：original
+1	auspices
+1	augmenting
+1	audible
+1	attuned
+1	attrition
+1	attributed
+1	attracting
+1	attitude
+1	attested
+1	attest:证实，为...作证：give evidence
+1	attenuation
+1	attended
+1	attempted
+1	attack
+1	atrophy:萎缩，衰退：waste away
+1	atrocities
+1	atonement
+1	athletes
+1	atavistic
+1	astute
+1	astounding
+1	astonishment
+1	assured
+1	assumptions
+1	assumption
+1	assume
+1	assuage
+1	associations
+1	assiduous
+1	assets
+1	assess
+1	assertiveness
+1	assailed
+1	aspect
+1	ascetic
+1	ascertained
+1	ascent
+1	artlessness
+1	artless
+1	artifacts
+1	articulate
+1	articles
+1	artfulness
+1	arrangements
+1	around
+1	aristocratic
+1	argument:争吵，争论：expression of differing opinions；（逻辑上的）论证：from a premise to a conclusion；观点，论点：idea, opinion
+1	archetypically
+1	archaic
+1	arboreal
+1	arable:适合耕作的：growing of crops
+1	aptitude
+1	apropos
+1	approximation
+1	approximate
+1	approve
+1	approval
+1	appropriated
+1	approbation
+1	apprised
+1	apprehensive:知晓的，理解的：impressed on the mind；恐惧的，害怕的：anxious, fearful
+1	appreciating
+1	application
+1	applaud
+1	appending
+1	appease
+1	appeared
+1	appearance
+1	appalling
+1	apologist
+1	apocryphal
+1	aplomb
+1	aphorisms
+1	anxious
+1	anxiety
+1	antithetical:完全对立的，相反的：direct and unequivocal opposition
+1	antiquity
+1	antiquated:古老的，过时的：out of style
+1	antipathy:厌恶，反感：aversion, dislike；令人反感的事物：objection of aversion
+1	antidotes
+1	antidote
+1	anticipates
+1	antedated
+1	antagonize
+1	anomaly
+1	anoint
+1	angry
+1	anglicized
+1	anger
+1	ancillary
+1	ancestry
+1	analyze
+1	analytical
+1	anachronism
+1	amply
+1	amplify
+1	amorphous
+1	amelioration
+1	ambitious
+1	ambition
+1	ambiences
+1	ambidextrous
+1	amazes
+1	amalgam
+1	altruistic
+1	altogether
+1	alters
+1	alternate
+1	altering
+1	altered
+1	alter
+1	aloof:孤高的，不合群的：distant
+1	alloyed
+1	allowed
+1	allow
+1	allopathy
+1	allocate
+1	allies
+1	alleviate:缓和，减轻：relieve, lessen
+1	allegiances
+1	allayed
+1	alienate:疏远，离间：make unfriendly; 转移，变卖（财产或权利）：convey or transfer
+1	alien
+1	aimless
+1	agreement
+1	agreed
+1	agonize:（使）非常痛苦：deep sadness
+1	agitated
+1	aggravated
+1	aggravate:加重，恶化：worse, serious, severe
+1	affluent:富裕的：sufficient
+1	affluence
+1	affirmed
+1	affects
+1	affected
+1	affectation:虚伪，做作：not natural, not genuinely felt
+1	affable:和蔼的，温和的：ease, friendliness
+1	aesthetically
+1	advocated
+1	advisable
+1	advertise
+1	advent
+1	advantageous
+1	advantage
+1	advances
+1	advanced
+1	adulation
+1	adored
+1	adoption
+1	adolescent
+1	admit
+1	admiring
+1	admiration
+1	administering
+1	adjusted
+1	adjuncts
+1	adhere:依附，粘着：stick; 服从，遵守：according to the commands; 坚定地支持：steadfast support
+1	adequate
+1	addresses
+1	adaptive
+1	adapt:修改，使（适应）：modify
+1	adamant:固执的，不可动摇的：unshakable, unyielding, inflexible
+1	acumen:不同寻常的洞察力和鉴别力：exceptional discernment and judgment
+1	actualities
+1	activism
+1	acrimony
+1	acrimonious:刻薄的，充满仇恨的：deep-seated resentment
+1	acquisitive:贪婪的：desirous
+1	acquired
+1	acolyte
+1	acknowledging
+1	acknowledged
+1	acidic
+1	achievement
+1	accused
+1	accusatory
+1	accuracy
+1	accumulation
+1	accounts
+1	according
+1	accomplishment
+1	acclaimed
+1	acclaim:称赞：public acknowledgment or admiration；赞扬，赞颂：approval
+1	accidentally
+1	accessibility
+1	acceptable
+1	accentuated
+1	accentuate
+1	accelerating
+1	accelerates
+1	academicians
+1	abysmal:极低的，极可怜的：immeasurably low; （程度）很深的，极端的：immeasurably great
+1	absurdity
+1	abstruse:难以理解的：recondite
+1	abstraction
+1	abstemious:（吃喝等）有节制的，节俭的：restraint, food or alcohol, sparing
+1	absorbing
+1	absolve:使无罪，解除责任：free from, guilt, exculpate
+1	absent:未出现的，缺乏的：not present；不专心的，走神的：lost in thought
+1	abrasive
+1	abjure:v.发誓放:rejecting,abandoning;v.抵制避:resist
+1	abject:adj.无精打采的：spiritless；adj.（地位、身份）悲惨、凄凉的：low state;adj.卑微的，讨好的：humble
+1	abiding:永久的：enduring
+1	abhor:vt.深恶痛绝，极度厌恶：extreme repugnance
+1	abeyance:n.终止，搁置：inactivity
+1	aberration
+1	abated
+1	abandon:放:constraint；放纵：unrestrainedly；放弃：withdraw；停止做某事：put an end to
+1	
